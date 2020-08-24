@@ -1,0 +1,7 @@
+{
+  "title": "Ping When Down - Monitor (Production)",
+  "monitor-is-on": true,
+  "default-timeout": 3000,
+  "default-retries": 0,
+  "database-connection-string": "envar"
+}
